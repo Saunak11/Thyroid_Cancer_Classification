@@ -1,0 +1,7 @@
+# Ignore dataset and models
+*.h5
+*.zip
+
+
+# Ignore folders
+.ipynb_checkpoints/

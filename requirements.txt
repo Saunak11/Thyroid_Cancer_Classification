@@ -1,0 +1,27 @@
+tensorflow==2.12.0
+keras==2.12.0
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.7.1
+seaborn==0.12.2
+opencv-python==4.7.0.72
+scikit-learn==1.2.2
+jupyterlab==3.6.3
+lxml==4.9.2
+imgaug==0.4.0
+
+
+
+TensorFlow & Keras for deep learning
+
+NumPy, Pandas for data handling
+
+OpenCV for image processing
+
+Matplotlib, Seaborn for plotting
+
+scikit-learn for metrics
+
+lxml and imgaug for XML parsing and augmentation
+
+Jupyter for running notebooks
