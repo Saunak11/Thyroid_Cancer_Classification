@@ -65,7 +65,7 @@ Model training and validation accuracy are visualized using line graphs. All res
 Due to GitHub storage limitations, large files have been uploaded to Google Drive. Please download them before running the code.
 And you can also take the reference as it contains every detail about that project.
 👉 **[Download Images, XMLs, Augmented Data, and Trained Models]
-(https://drive.google.com/drive/folders/1VhKFUnj1E1lphygldOqxtrcQQarL-jow?usp=drive_link)**  
+(https://drive.google.com/drive/folders/1sk11WBBY14i8-HtXA1svwxpMVSTutEsQ?usp=sharing)**  
 
 
 After downloading, place them in their respective folders.
